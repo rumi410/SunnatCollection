@@ -1,0 +1,1 @@
+console.log("Sunnat Collection website loaded.");
